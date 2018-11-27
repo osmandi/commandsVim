@@ -148,5 +148,5 @@ En modo normal:
 - Seleccionar las líneas.
 - Presionar I (i mayúscula).
 - Escribir el código repetitivo.
-- Entrear en modo normal con **esc**.
+- Entrar en modo normal con **esc**.
 
